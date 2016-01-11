@@ -4,6 +4,9 @@ public class Main {
 	
 	static Scanner scanner = new Scanner(System.in);
 
+
+// TEST
+// DUNKIN
 	/**
 	 * Prompts the user to enter his or her first name.
 	 * Which in turn will return "Hello FirstName."

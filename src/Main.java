@@ -5,7 +5,8 @@ public class Main {
 	static Scanner scanner = new Scanner(System.in);
 
 	/**
-	 * The main method.
+	 * Prompts the user to enter his or her first name.
+	 * Which in turn will return "Hello FirstName."
 	 * @param args
 	 */
 	public static void main(String[] args) {
